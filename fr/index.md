@@ -2,7 +2,7 @@
 
 ---
 
-[Accueil](./) | [Appel à communications](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks) | [Outils](./tools) | [Programme](./program) | [Publications](./publications) | [Organisateurs](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
+[Accueil](./) | [Appel à communications](../fr/CFP) | [Dates importantes](../fr/dates) | [Tâches](../fr/tasks) | [Outils](../fr/tools) | [Programme](../fr/program) | [Publications](../fr/publications) | [Organisateurs](../fr/organizers) | [Contact](../fr/contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
 
 ---
 
